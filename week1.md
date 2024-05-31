@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Oriane Nana
+author: Oriane Nana
 ---
 ## Accomplishments
    We didn't do any actual research but I got to learn a lot from the bootcamp that were held over the week which I'll consider an accomplisment

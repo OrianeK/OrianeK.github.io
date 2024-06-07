@@ -4,14 +4,14 @@ title: Week 2
 author: Oriane Nana
 ---
 ## Accomplishments
-   We didn't do any actual research but I got to learn a lot from the bootcamp that were held over the week which I'll consider an accomplisment
+   This week I got to accomplish a few things. I got to learn how to use the opencv python library, ultralytics library and yolo algorithm and run a few object detection programs.
 ## Results Achieved 
-   I gained a greater understanding in all the subjects that were coverd over the course of this week
+   Using the Opencv and ultralytics python libraries I got to learn how to run labelled object detection programs. I was also able to see first hand how useful the implementation of the yolo algorithm couldd be through the implementation of said programs.
 ## Algorithms Used 
-   We used logistics regression model to train data during the machine learning bootcamp this week. We also covered numpy and pandas to work with data sets provided
+   This week we used the Yolo algorithm to run a labelled object detection program. It was really interesting to see how that algorithm improved the previous object detection programs I got to run seing how boxed the objects and labelled them each in real time with the help of opencv and ultralytics libraries.
 ## Issues and Frustrations Encountered
-   I encountered some issues with remembering all the information that was provided this as it was a lot but with repetition and prpactice I cannot imagine that becoming an obstacle.
-## Other Relevnat Experiences or Insights Gained During This Week
-   I got to discuss the project I would be working on with my mentors over the course of this internship program and got aquainted with tools like python which will be of crucial importance in understanding and positively contributing to my project.
+   I encountered a few Frustrating issue. The first one was during the set up of my raspberrypi. I didn't realise until my team mate told me, that I was supposed to conect my mouse's usb connector to the raspberrypi board instead of the monitor.
+## Other Relevant Experiences or Insights Gained During This Week
+   Outside of the skill aquisition majority section of the week I got to do some robot automy research to understand what the methods we were using in the applicaiton of this research was and why we are using them. I also got to explore other forms of applications for the research we are doing through other people's research and other online resources.
    
 [Back](./)

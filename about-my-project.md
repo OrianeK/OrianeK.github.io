@@ -1,6 +1,6 @@
 ## About My Project
 
-Robot Autonomy
+AI Robot Autonomy
 
 Problem: 
   - Most semi-autonomous wheelchairs are for individual use, not a large-scale public format 

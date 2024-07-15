@@ -4,15 +4,16 @@ title: Week 7
 author: Oriane Nana
 ---
 ## Accomplishments
-   This week too I got a couple of issues with the hardware implementations of my project but I also got to solve the some of the others I had from last week. I got to fix the navigation hardware issue of my robot through trouble shooting and Research and understand visual SLAM foreshadowing future implementation. 
+   This week my whole time was dedicated to finding a solution to the LiDAR mapping issue that is going on. In that regard I researched and Learned about different techniques to fix the LiDAR.
 ## Results Achieved 
-   Since I was able to solve the navigation issue of my robot, I was able to manually drive it around my workspace room with no issues. 
+    Although the LiDAR issue is still prevalent, I got to get familiar with multiple troubleshooting and testing techniques for LiDAR.
+  
 ## Algorithms Used 
-   I haven't gotten to use the SLAM algorithm yet but I am building up to that pretty consistently.
+   This week I got to use the SLAM algorithm with my robot.
 ## Issues and Frustrations Encountered
-   This week I tried getting more into the SLAM algorithm since I managed to fix the navigation issue with my robot wheel but it was really hard due to the ROS2 being difficult to work with. Getting my robot to connect was very hard which on several occassions couldn't even do at all slowed me down a lot in my work.
+   ALthough I got to run SLAM with my robot I couldn't get a good map because of what is most likely a software issue with SLAM. To resolve this I tried a couple ways the most recent one being re-flashing the SD card as a way to start over which didn't work so this task will definetly transfer over next week
 ## Other Relevant Experiences or Insights Gained During This Week
-   As I stated last week, trouble shooting is a very important part of this project. As an example, I taught the thing wrong with the wheel of my robot was waveshare board or the motor but infact it was just a wire that wasn't properly cut. 
+   I gained a lot of insight on the importance of consistency up until this week I haven't had a problem where I had absolutly no idea what the cause could be which made finding the solution for them less frustrating. Trying to not give up when you're frustated at a problem is really hard but that is how most solutions are found so I think this a very valuable lesson I'm learning form this experience.
    
 [Back](./)
 

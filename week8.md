@@ -7,7 +7,7 @@ author: Oriane Nana
 ## Accomplishments
    This week I finally got to resolve the mapping issue with the Robot. Along the way I picked some important skills and lessons I will definitly be using in my future projects.
 ## Results Achieved 
-    This week I was able to create a clean map of a room using the Robot with no issues which moved our project once step closer to completion with this prevalent issue solved.
+   This week I was able to create a clean map of a room using the Robot with no issues which moved our project once step closer to completion with this prevalent issue solved.
   
 ## Algorithms Used 
    This week I got to use the LiDAR-SLAM and V-SLAM algorithms with the robot because the delaying issues were resolved.
